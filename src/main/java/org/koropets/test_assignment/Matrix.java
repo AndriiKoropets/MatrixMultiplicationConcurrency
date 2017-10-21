@@ -1,11 +1,8 @@
-package org.koropets.process.asdf;
+package org.koropets.test_assignment;
 
 import java.math.BigInteger;
 import java.util.Random;
 
-/**
- * Created by user1022231 on 17.10.17.
- */
 public class Matrix {
 
     private BigInteger[][] matrix;
